@@ -1,0 +1,310 @@
+{
+  "generated_at": "2026-07-13T16:44:47.104190",
+  "total_events_processed": 24,
+  "company_risks": [
+    {
+      "company": "TSMC",
+      "sector": "Semiconductors",
+      "country": "Taiwan",
+      "risk_score": 0.36,
+      "affected_ports": [
+        "Shanghai"
+      ],
+      "impacted_products": [
+        "Semiconductors"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Foxconn",
+      "sector": "Manufacturing",
+      "country": "Taiwan",
+      "risk_score": 0.33,
+      "affected_ports": [
+        "Shanghai"
+      ],
+      "impacted_products": [
+        "Smartphones"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Nike",
+      "sector": "Apparel",
+      "country": "USA",
+      "risk_score": 0.24,
+      "affected_ports": [
+        "Shanghai"
+      ],
+      "impacted_products": [
+        "Apparel & Footwear"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Tesla",
+      "sector": "Automotive",
+      "country": "USA",
+      "risk_score": 0.21,
+      "affected_ports": [
+        "Shanghai"
+      ],
+      "impacted_products": [
+        "EV Batteries"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Apple",
+      "sector": "Technology",
+      "country": "USA",
+      "risk_score": 0.18,
+      "affected_ports": [
+        "Shanghai"
+      ],
+      "impacted_products": [
+        "Semiconductors",
+        "Smartphones"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Walmart",
+      "sector": "Retail",
+      "country": "USA",
+      "risk_score": 0.18,
+      "affected_ports": [
+        "Rotterdam"
+      ],
+      "impacted_products": [
+        "Retail Goods"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    },
+    {
+      "company": "Toyota",
+      "sector": "Automotive",
+      "country": "Japan",
+      "risk_score": 0.18,
+      "affected_ports": [
+        "Yokohama"
+      ],
+      "impacted_products": [
+        "Automotive Parts"
+      ],
+      "alert_level": "\ud83d\udfe2 MEDIUM"
+    }
+  ],
+  "alerts": [
+    {
+      "event_id": "EVT_1783975375_2",
+      "title": "Washington and Pharma Are Helping China Win",
+      "disruption_type": "general",
+      "severity": 0.3,
+      "affected_ports": [
+        "CNSHA"
+      ],
+      "company_impacts": [
+        {
+          "company": "TSMC",
+          "sector": "Semiconductors",
+          "country": "Taiwan",
+          "risk_score": 0.36,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Semiconductors"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Foxconn",
+          "sector": "Manufacturing",
+          "country": "Taiwan",
+          "risk_score": 0.33,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Smartphones"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Nike",
+          "sector": "Apparel",
+          "country": "USA",
+          "risk_score": 0.24,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Apparel & Footwear"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Tesla",
+          "sector": "Automotive",
+          "country": "USA",
+          "risk_score": 0.21,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "EV Batteries"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Apple",
+          "sector": "Technology",
+          "country": "USA",
+          "risk_score": 0.18,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Semiconductors",
+            "Smartphones"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        }
+      ],
+      "total_companies_affected": 5,
+      "processed_at": "2026-07-13T16:44:42.079860"
+    },
+    {
+      "event_id": "EVT_1783975375_4",
+      "title": "[no title]",
+      "disruption_type": "general",
+      "severity": 0.3,
+      "affected_ports": [
+        "CNSHA"
+      ],
+      "company_impacts": [
+        {
+          "company": "TSMC",
+          "sector": "Semiconductors",
+          "country": "Taiwan",
+          "risk_score": 0.36,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Semiconductors"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Foxconn",
+          "sector": "Manufacturing",
+          "country": "Taiwan",
+          "risk_score": 0.33,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Smartphones"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Nike",
+          "sector": "Apparel",
+          "country": "USA",
+          "risk_score": 0.24,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Apparel & Footwear"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Tesla",
+          "sector": "Automotive",
+          "country": "USA",
+          "risk_score": 0.21,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "EV Batteries"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        },
+        {
+          "company": "Apple",
+          "sector": "Technology",
+          "country": "USA",
+          "risk_score": 0.18,
+          "affected_ports": [
+            "Shanghai"
+          ],
+          "impacted_products": [
+            "Semiconductors",
+            "Smartphones"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        }
+      ],
+      "total_companies_affected": 5,
+      "processed_at": "2026-07-13T16:44:42.088498"
+    },
+    {
+      "event_id": "EVT_1783975376_6",
+      "title": "10 amazing European destinations you can fly Delta One lie-flat to this summer f",
+      "disruption_type": "general",
+      "severity": 0.3,
+      "affected_ports": [
+        "NLRTM"
+      ],
+      "company_impacts": [
+        {
+          "company": "Walmart",
+          "sector": "Retail",
+          "country": "USA",
+          "risk_score": 0.18,
+          "affected_ports": [
+            "Rotterdam"
+          ],
+          "impacted_products": [
+            "Retail Goods"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        }
+      ],
+      "total_companies_affected": 1,
+      "processed_at": "2026-07-13T16:44:42.095973"
+    },
+    {
+      "event_id": "EVT_1783975378_20",
+      "title": "AI Servers Drive Demand for Next-Generation Power Semiconductors",
+      "disruption_type": "semiconductor",
+      "severity": 0.3,
+      "affected_ports": [
+        "JPYOK"
+      ],
+      "company_impacts": [
+        {
+          "company": "Toyota",
+          "sector": "Automotive",
+          "country": "Japan",
+          "risk_score": 0.18,
+          "affected_ports": [
+            "Yokohama"
+          ],
+          "impacted_products": [
+            "Automotive Parts"
+          ],
+          "alert_level": "\ud83d\udfe2 MEDIUM"
+        }
+      ],
+      "total_companies_affected": 1,
+      "processed_at": "2026-07-13T16:44:42.103080"
+    }
+  ]
+}
