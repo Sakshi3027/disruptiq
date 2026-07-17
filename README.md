@@ -21,6 +21,25 @@ DisruptIQ monitors real supply chain news in real-time, classifies disruption ev
 
 ---
 
+
+## Screenshots
+
+### Live Dashboard
+Real-time company risk scores propagated through the Neo4j knowledge graph. Click any port in the Port Risk Monitor to instantly see affected companies via graph traversal.
+
+![DisruptIQ Dashboard](docs/dashboard.png)
+
+### Neo4j Supply Chain Knowledge Graph
+10 companies, 10 ports, 56 supply chain relationships. The graph shows how companies connect to ports and trade routes enabling instant risk propagation queries.
+
+![Neo4j Knowledge Graph](docs/graph.png)
+
+### Fine-tuning Training Progress
+DistilBERT accuracy improving from 16.7% to 75% over 10 epochs on Google Colab T4 GPU in 90 seconds.
+
+![Training Progress](docs/training.png)
+
+---
 ## Architecture
 ```
 NewsAPI (real supply chain news)
