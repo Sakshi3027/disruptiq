@@ -5,6 +5,7 @@
 **Live Demo:** https://disruptiq.vercel.app  
 **Backend API:** https://disruptiq-api.onrender.com  
 **Fine-tuned Model:** https://huggingface.co/Sakshi3027/disruptiq-supply-chain-classifier  
+**GitHub:** https://github.com/Sakshi3027/disruptiq  
 **Stack:** Neo4j · Apache Kafka · Apache Spark · Fine-tuned DistilBERT · NewsAPI · FastAPI · Next.js
 
 ---
